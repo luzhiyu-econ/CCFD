@@ -1,0 +1,97 @@
+\documentclass{beamer}
+
+\usetheme{Madrid}
+\usecolortheme{beaver}
+
+\title[Quack Markets]{Quack Markets: Limited Rationality and Market Dynamics}
+\author[Research Agent]{Research Agent}
+\date{\today}
+
+\begin{document}
+	
+	\begin{frame}
+		\titlepage
+	\end{frame}
+	
+	\section{Introduction}
+	
+	\begin{frame}
+		\frametitle{Research Background and Importance}
+		\begin{itemize}
+			\item A hypothetical market with quacks and patients competing on prices.
+			\item Quacks provide treatments with no actual help for recovery.
+			\item Recovery probability \( \alpha \) is fixed, regardless of treatment.
+			\item Market should not exist if patients are rational.
+			\item Patients' decisions are influenced by limited rationality and anecdotal reasoning.
+			\item Limited rationality significantly impacts the market, leading to active markets, welfare losses for patients, and a non-monotonic relationship between market participants \( n \) and recovery probability \( \alpha \).
+		\end{itemize}
+	\end{frame}
+	
+	\section{Research Questions and Hypotheses}
+	
+	\begin{frame}
+		\frametitle{Research Questions and Hypotheses}
+		\begin{itemize}
+			\item Can market competition mitigate the negative impact of quacks on patient welfare?
+			\item A theoretical model is constructed assuming quacks are profit maximizers and patients follow limited rationality decision rules.
+			\item Patients rely on random, anecdotal stories about treatment quality as complete information.
+		\end{itemize}
+	\end{frame}
+	
+	\section{Model Derivation and Formula Interpretation}
+	
+	\begin{frame}
+		\frametitle{Model Derivation and Formula Interpretation}
+		\begin{itemize}
+			\item Patients make choices based on the S(1) procedure.
+			\item For each alternative \( i \), patients sample once and get result \( x_i \), where \( x_i = 1 \) for success and \( x_i = 0 \) for failure.
+			\item Patients choose alternative \( i \) that maximizes \( x_i - p_i \) in their sample.
+			\item Quacks consider patient choice procedures when determining pricing strategies.
+			\item The Nash equilibrium is unique, symmetric, and mixed-strategy.
+			\item Quacks act as "cheaters," charging positive prices for worthless treatments.
+			\item There is a negative correlation between \( \alpha \) and expected prices.
+		\end{itemize}
+	\end{frame}
+	
+	\section{Main Results}
+	
+	\begin{frame}
+		\frametitle{Main Results}
+		\begin{enumerate}
+			\item Quack markets are active, with positive prices for worthless treatments.
+			\item Patient welfare losses are non-monotonic in relation to \( n \) and \( \alpha \).
+			\item In an extended model, quacks minimize price competition pressure by providing treatments with the greatest differentiation.
+			\item Patient welfare losses are robust to market interventions that would eliminate low-quality firms in standard models but may be ineffective here.
+			\end{enumerate}
+	\end{frame}
+	
+	\section{Practical Significance}
+	
+	\begin{frame}
+		\frametitle{Practical Significance}
+		\begin{itemize}
+			\item Understanding market interactions in "soft skill" industries like psychotherapy, management consulting, forecasting, and alternative medicine.
+			\item Consumers often rely on anecdotes when facing unexpected issues and entering the market without a long learning phase.
+			\item Examples of anecdotal reasoning: "A friend took this medicine and feels much better now," or "We should trust this political analyst because he foresaw the collapse of the Soviet Union."
+		\end{itemize}
+	\end{frame}
+	
+	\section{Conclusion}
+	
+	\begin{frame}
+		\frametitle{Conclusion}
+		\begin{itemize}
+			\item Theoretical models show non-intuitive phenomena in market interactions between limited rationality consumers and rational firms.
+			\item Markets can be active even with completely worthless services, and traditional competition policies may not improve consumer welfare.
+			\item Findings are significant for understanding and designing more effective market interventions.
+		\end{itemize}
+	\end{frame}
+	
+	\section*{References}
+	
+	\begin{frame}
+		\bibliographystyle{plain}
+		\bibliography{references}
+	\end{frame}
+	
+\end{document}
