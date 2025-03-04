@@ -1,7 +1,0 @@
-\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
-\beamer@sectionintoc {2}{Research Questions and Hypotheses}{5}{0}{2}
-\beamer@sectionintoc {3}{Model}{7}{0}{3}
-\beamer@sectionintoc {4}{Derivation Process and Formula Interpretation}{9}{0}{4}
-\beamer@sectionintoc {5}{Main Results}{11}{0}{5}
-\beamer@sectionintoc {6}{Practical Significance}{13}{0}{6}
-\beamer@sectionintoc {7}{Conclusion}{15}{0}{7}
