@@ -1,22 +1,14 @@
 <div align="center">
-  <img src="https://github.com/luzhiyu-econ/CCFD/zhongcai.png" width="180" alt="中财校徽">
-  
+  <img src="https://github.com/luzhiyu-econ/CCFD/blob/main/zhongcai.png" alt="中财校徽">
+</div>
+
 # 📚 中央财经大学财政学基础理论（财政学基地班）
 
-✨ **学术资源共享** ✨
+✨ **学习资源共享** ✨
 
 📬 [联系维护者](mailto:mark.lu589698@outlook.com) | 📝 [提交建议](https://github.com/luzhiyu-econ/CCFD/issues)
 
----
 
-## 🎯 项目宗旨
-构建全生命周期知识管理体系，覆盖：
-- 💼 课程课件（同步授课进度）
-- 📚 经典教材与参考书目
-- 🎓 学术论文写作模板集合
-- 🧩 结构化知识要点库
-
-通过可持续的社区协作，实现 **资源沉淀→知识共享→学术创新** 的正向循环 🔁
 
 ---
 
