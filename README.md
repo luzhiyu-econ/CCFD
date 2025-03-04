@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="[https://github.com/luzhiyu-econ/CCFD/blob/main/zhongcai.png]" width="180" alt="中财校徽">
-  
+  ![中财校徽](https://github.com/luzhiyu-econ/CCFD/blob/main/zhongcai.png)
+</div>
+
 # 📚 中央财经大学财政学基础理论（财政学基地班）
 
 ✨ **学术资源共享** ✨
