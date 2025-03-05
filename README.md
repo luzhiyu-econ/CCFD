@@ -46,3 +46,12 @@
 
 
 > 🌱 遇到问题请随时[发起讨论](https://github.com/luzhiyu-econ/CCFD/discussions)！
+
+## 致谢
+
+特别感谢以下同学的贡献与支持：
+
+- @yisuyoki
+- @yzzavol
+
+
