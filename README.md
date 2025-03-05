@@ -51,7 +51,6 @@
 
 特别感谢以下同学的贡献与支持：
 
-- @yisuyoki
-- @yzzavol
-
+> GitHub [@yisuyoki](https://github.com/yisuyoki) &nbsp;&middot;&nbsp;
+> GitHub [@yzzavol](https://github.com/yzzavol) &nbsp;&middot;&nbsp;
 
